@@ -1,0 +1,14 @@
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.exe
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.deps.json
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.runtimeconfig.json
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.runtimeconfig.dev.json
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.dll
+C:\dev\ExceptionsCS\bin\Debug\netcoreapp3.1\ExceptionsCS.pdb
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.csproj.AssemblyReference.cache
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.AssemblyInfoInputs.cache
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.AssemblyInfo.cs
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.csproj.CoreCompileInputs.cache
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.dll
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.pdb
+C:\dev\ExceptionsCS\obj\Debug\netcoreapp3.1\ExceptionsCS.genruntimeconfig.cache
